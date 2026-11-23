@@ -224,3 +224,4 @@ describe('Real Webpage DOM Extraction & SEO Audit Scenarios', () => {
     expect(rawData.headings.items[0].text).toBe('Rendered by React SPA');
   });
 });
+
